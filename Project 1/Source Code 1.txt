@@ -1,3 +1,5 @@
 this is source code 1
 
 first edit of file 1
+
+New functionality depends on this file edit too
