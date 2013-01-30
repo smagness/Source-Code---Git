@@ -3,3 +3,5 @@ this is a second source code file
 first edit of file 2
 
 implemented the second new feature
+
+but I want to do it this way?!
